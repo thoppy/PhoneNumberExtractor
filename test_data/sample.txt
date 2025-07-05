@@ -1,0 +1,11 @@
+Here are some phone numbers:
++1-555-123-4567
+(123) 456-7890
+1234567890
+This is not a phone number: 12345
+This is another valid number: +44 20 7946 0958
+Invalid: 555-123-456
+This line has no numbers.
+Another one: 02079460958.
+And +15551234567.
+Final number +4912345678901.
