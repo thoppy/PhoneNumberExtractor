@@ -1,0 +1,10 @@
+Name,Phone,Notes
+Alice,+1-555-987-6543,Primary contact
+Bob,(987) 654-3210,Secondary
+Charlie,9876543210,No dashes
+Invalid,12345,Too short
+Eve,+44 20 7946 0123,UK Number
+NoNumber,,No phone here
+Frank,02079460123,Another UK
+Grace,+19876543210,US Number
+Hans,+4912345678902,German number
